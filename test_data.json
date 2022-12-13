@@ -1,0 +1,26 @@
+[
+    {
+        "date": "2008-09-15T15:53:00",
+        "sensor_id": 100,
+        "type": "degrees",
+        "value": 740.0
+    },
+    {
+        "date": "2008-09-15T15:50:00",
+        "sensor_id": 100,
+        "type": "degrees",
+        "value": 700.0
+    },
+    {
+        "date": "2008-09-15T15:51:00",
+        "sensor_id": 100,
+        "type": "something_else",
+        "value": 2880.0
+    },
+    {
+        "date": "2008-09-15T15:50:00",
+        "sensor_id": 10,
+        "type": "something_else",
+        "value": 980.0
+    }
+]

@@ -1,0 +1,9 @@
+name: 720degrees
+dependencies:
+  - python=3.9.12
+  - pip:
+    - fastapi=0.88.0
+    - fastapi-sqlalchemy=0.2.1
+    - alembic=1.8.1
+    - httpx=0.23.1
+    - pandas=1.5.2
